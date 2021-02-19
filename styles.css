@@ -1,3 +1,25 @@
-.visually-hidden {
-  display: none;
+
+
+.wrapper .block-1 {
+  display: block;
 }
+
+ .wrapper .block-2 {
+   display: none;
+ }
+
+ .wrapper:hover .block-1 {
+   display: none;
+ }
+
+ .wrapper:hover .block-2 {
+   display: block;
+ }
+
+ .visually-hidden {
+   display: none;
+ }
+
+ .news-text {
+
+ }
