@@ -1,4 +1,16 @@
+.header-nav ul li {
+display: inline.header-nav ul li0---------------------------------------+---block
 
+;
+}
+
+.header-nav ul li a {
+  text-decoration: none;
+}
+
+.header-nav ul {
+  list-style: none;
+}
 
 .wrapper .block-1 {
   display: block;
